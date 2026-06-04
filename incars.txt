@@ -1,0 +1,35 @@
+Jim Black
+Buick
+125040
+Red
+5
+Fred Green
+Chevy
+154782
+Blue
+4
+Pat Miller
+Honda
+108741
+Black
+4
+Mary John
+Buick
+98024
+Green
+7
+Kathy Wood
+Honda
+782657
+Red
+5
+Jill Hill
+Buick
+187254
+Brown
+4
+Frank Bean
+Chevy
+37500
+Yellow
+5
