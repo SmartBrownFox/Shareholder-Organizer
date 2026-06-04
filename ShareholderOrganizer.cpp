@@ -1,7 +1,5 @@
-// Program: CharltonW_2
 // Purpose: Manage shareholder data and provide category analysis
 // Author: Wesley Charlton
-// Date: 10/05/25
 
 #include <iostream>
 #include <fstream>
